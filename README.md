@@ -1,0 +1,2 @@
+# swiftmailer-ses
+Swiftmailer SES
